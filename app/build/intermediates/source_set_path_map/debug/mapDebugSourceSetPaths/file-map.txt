@@ -1,0 +1,43 @@
+com.example.ruta705.app-pngs-0 C:\Documentos\Ruta705\app\build\generated\res\pngs\debug
+com.example.ruta705.app-resValues-1 C:\Documentos\Ruta705\app\build\generated\res\resValues\debug
+com.example.ruta705.app-packageDebugResources-2 C:\Documentos\Ruta705\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ruta705.app-packageDebugResources-3 C:\Documentos\Ruta705\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ruta705.app-debug-4 C:\Documentos\Ruta705\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.ruta705.app-debug-5 C:\Documentos\Ruta705\app\src\debug\res
+com.example.ruta705.app-main-6 C:\Documentos\Ruta705\app\src\main\res
+com.example.ruta705.app-foundation-release-7 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\049c3bf8dad0226d1276ec391a69c150\transformed\foundation-release\res
+com.example.ruta705.app-startup-runtime-1.1.1-8 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\06cb3215ce0df6c5f9efbf92b7dc98e8\transformed\startup-runtime-1.1.1\res
+com.example.ruta705.app-material-release-9 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\0bfdcbd8e2584ec4c205636197c0ac10\transformed\material-release\res
+com.example.ruta705.app-core-runtime-2.2.0-10 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\13b97e67a6c3df0f8d8231219cce15f6\transformed\core-runtime-2.2.0\res
+com.example.ruta705.app-ui-test-manifest-1.9.2-11 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\19f87e170decf08b6ad2da5cae9e38b8\transformed\ui-test-manifest-1.9.2\res
+com.example.ruta705.app-lifecycle-livedata-core-2.10.0-12 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\1f8bb5bb90548f04426790eea9476160\transformed\lifecycle-livedata-core-2.10.0\res
+com.example.ruta705.app-activity-compose-1.13.0-13 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\28146a2273176841c88b311d3d594bfb\transformed\activity-compose-1.13.0\res
+com.example.ruta705.app-graphics-path-1.0.1-14 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\2e5ed0a9bd3aa2419845e45eb0be642c\transformed\graphics-path-1.0.1\res
+com.example.ruta705.app-navigation-runtime-2.8.0-15 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\336643763d1949fbed901fe3b67b8ceb\transformed\navigation-runtime-2.8.0\res
+com.example.ruta705.app-lifecycle-runtime-16 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\39ebaeb8359d45a58f4d5e7cceae9ea9\transformed\lifecycle-runtime\res
+com.example.ruta705.app-core-ktx-1.18.0-17 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\55eb528f22e5cad14f61b345b7db1465\transformed\core-ktx-1.18.0\res
+com.example.ruta705.app-profileinstaller-1.4.0-18 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\60c9fbacf8057275ab8a0ba10a6b128a\transformed\profileinstaller-1.4.0\res
+com.example.ruta705.app-material-ripple-release-19 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\6c93fcebf1bad653d18bc228c8f399de\transformed\material-ripple-release\res
+com.example.ruta705.app-emoji2-1.4.0-20 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\6cfcecb12f9875ace88e29dce1ab1e23\transformed\emoji2-1.4.0\res
+com.example.ruta705.app-lifecycle-process-2.10.0-21 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\70a5ee01fdaaa529f5d9a111bc73fac9\transformed\lifecycle-process-2.10.0\res
+com.example.ruta705.app-activity-ktx-1.13.0-22 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\7907efee206c7ead4f13f90702e80252\transformed\activity-ktx-1.13.0\res
+com.example.ruta705.app-savedstate-23 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\80ca5df3b3535b20c47f4dbe16dd51e4\transformed\savedstate\res
+com.example.ruta705.app-savedstate-ktx-1.4.0-24 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\8796dcc1d917ecbe30b1c4ec5aeb5813\transformed\savedstate-ktx-1.4.0\res
+com.example.ruta705.app-navigationevent-25 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\8db5d5deb8004a486c00968ae340b627\transformed\navigationevent\res
+com.example.ruta705.app-navigation-runtime-ktx-2.8.0-26 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\95f0ee3f4ecf48db0263fb366cb81f5f\transformed\navigation-runtime-ktx-2.8.0\res
+com.example.ruta705.app-ui-release-27 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\97c269283df60218ad9fc02cb5a189d7\transformed\ui-release\res
+com.example.ruta705.app-navigation-compose-2.8.0-28 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\997edf3ee22e023b1cef99c59a3b758a\transformed\navigation-compose-2.8.0\res
+com.example.ruta705.app-annotation-experimental-1.4.1-29 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\9fb28dfcbffcad42f8b042703c404432\transformed\annotation-experimental-1.4.1\res
+com.example.ruta705.app-customview-poolingcontainer-1.0.0-30 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\abad2bef7a34222430b2bab454c4053b\transformed\customview-poolingcontainer-1.0.0\res
+com.example.ruta705.app-core-1.18.0-31 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\abde750c65a9de34bc90c24bb6494c96\transformed\core-1.18.0\res
+com.example.ruta705.app-navigation-common-2.8.0-32 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\b0c258a0edd71ea070155fe7f3f0c4a1\transformed\navigation-common-2.8.0\res
+com.example.ruta705.app-activity-1.13.0-33 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\b73e9f72355d1bb1dad4c54974138d7a\transformed\activity-1.13.0\res
+com.example.ruta705.app-material-icons-core-release-34 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\bd1998258c3e707af045779a5dbb3158\transformed\material-icons-core-release\res
+com.example.ruta705.app-navigation-common-ktx-2.8.0-35 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\dac1f2118bda24502e4594344bac3408\transformed\navigation-common-ktx-2.8.0\res
+com.example.ruta705.app-material-icons-extended-release-36 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\dac54f22d4b8579de9d245120dfd46ef\transformed\material-icons-extended-release\res
+com.example.ruta705.app-lifecycle-viewmodel-ktx-2.10.0-37 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\eb948f62bbf8cb24368a681f0e0488c3\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.example.ruta705.app-material3-release-38 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\ec304158dab994b0cddba22491b935bc\transformed\material3-release\res
+com.example.ruta705.app-tracing-1.2.0-39 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\ec6336d7a7a71e8476ce41951a9199a1\transformed\tracing-1.2.0\res
+com.example.ruta705.app-lifecycle-viewmodel-40 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\efbf37a59656076add3c660ea4eec765\transformed\lifecycle-viewmodel\res
+com.example.ruta705.app-ui-graphics-release-41 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\f5a5efd8162283b854bfe3945f114fbf\transformed\ui-graphics-release\res
+com.example.ruta705.app-core-viewtree-1.0.0-42 C:\Users\Juan David\.gradle\caches\8.11.1\transforms\fcf4e9a182a12ec9e42dc32d09456630\transformed\core-viewtree-1.0.0\res
