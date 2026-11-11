@@ -1,8 +1,0 @@
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\feature\auth\login\LoginScreen.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\MainActivity.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\ui\theme\Theme.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\ui\theme\Color.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\core\navigation\NavGraph.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\feature\auth\register\RegisterScreen.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\ui\theme\Type.kt
-C:\Documentos\Ruta705\app\src\main\java\com\example\ruta705\feature\onboarding\LandingScreen.kt

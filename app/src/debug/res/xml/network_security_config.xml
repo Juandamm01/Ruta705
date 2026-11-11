@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SOLO DEBUG: permite HTTP en claro para probar contra el backend local
+  (emulador: 10.0.2.2, teléfono por USB con `adb reverse`: 127.0.0.1, o la IP LAN del PC).
+  Las compilaciones release usan src/main/res/xml/network_security_config.xml (solo HTTPS).
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

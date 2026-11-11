@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ruta705</string>
+    <string name="channel_route_updates">Novedades de tus rutas</string>
+    <string name="channel_route_updates_description">Reportes de la comunidad y avisos sobre las rutas que guardaste.</string>
 </resources>

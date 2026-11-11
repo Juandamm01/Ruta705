@@ -4,7 +4,7 @@
             "outputFile": "com.example.ruta705.app-mergeReleaseResources-2:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Juan David\\.gradle\\caches\\8.11.1\\transforms\\ec304158dab994b0cddba22491b935bc\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\Juan David\\.gradle\\caches\\8.11.1\\transforms\\9e56098749b5bec1db17b8984c3b21f3\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
